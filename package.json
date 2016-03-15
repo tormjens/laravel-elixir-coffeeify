@@ -21,6 +21,6 @@
     "url": "https://github.com/tormjens/laravel-elixir-coffeeify/issues"
   },
   "dependencies": {
-    "coffeeify": "2.0.1",
+    "coffeeify": "2.0.1"
   }
 }
